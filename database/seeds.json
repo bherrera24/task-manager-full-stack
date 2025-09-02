@@ -1,0 +1,91 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Mr. Noah Moore",
+      "email": "Grover18@hotmail.com",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Nancy Wiegand",
+      "email": "Colton51@yahoo.com",
+      "role": "admin"
+    },
+    {
+      "id": 3,
+      "name": "Susan Connelly",
+      "email": "Sanford17@yahoo.com",
+      "role": "developer"
+    },
+    {
+      "id": 4,
+      "name": "Mr. Emmett Borer",
+      "email": "Lincoln_Lesch@gmail.com",
+      "role": "developer"
+    },
+    {
+      "id": 5,
+      "name": "Dr. Casey Schuppe",
+      "email": "Ulices_Kshlerin64@hotmail.com",
+      "role": "tester"
+    },
+    {
+      "id": 6,
+      "name": "Ms. Charlotte Renner",
+      "email": "Alf_Parker@yahoo.com",
+      "role": "developer"
+    },
+    {
+      "id": 7,
+      "name": "Joann Bruen",
+      "email": "Willie44@hotmail.com",
+      "role": "admin"
+    },
+    {
+      "id": 8,
+      "name": "Ms. Cathy Champlin",
+      "email": "Miguel_Maggio41@yahoo.com",
+      "role": "admin"
+    },
+    {
+      "id": 9,
+      "name": "Kyle Dach DVM",
+      "email": "Ilene_McLaughlin@hotmail.com",
+      "role": "tester"
+    },
+    {
+      "id": 10,
+      "name": "Casey Goyette",
+      "email": "Julie71@gmail.com",
+      "role": "tester"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "name": "Small Silk Shoes",
+      "status": "pending"
+    },
+    {
+      "id": 2,
+      "name": "Modern Ceramic Bike",
+      "status": "pending"
+    },
+    {
+      "id": 3,
+      "name": "Generic Aluminum Sausages",
+      "status": "in progress"
+    },
+    {
+      "id": 4,
+      "name": "Gorgeous Rubber Hat",
+      "status": "in progress"
+    },
+    {
+      "id": 5,
+      "name": "Handcrafted Plastic Bike",
+      "status": "pending"
+    }
+  ]
+}

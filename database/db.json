@@ -1,0 +1,9 @@
+{
+  "users": [
+    { "id": 1, "name": "Patri", "role": "admin" },
+    { "id": 2, "name": "Lucas", "role": "developer" }
+  ],
+  "posts": [
+    { "id": 1, "title": "Hola mundo", "authorId": 1 }
+  ]
+}

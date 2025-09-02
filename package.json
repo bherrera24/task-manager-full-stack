@@ -12,6 +12,7 @@
   "license": "ISC",
   "description": "Full-Stack Task Manager with Node.js, Express, PostgreSQL, and React",
   "dependencies": {
+    "@faker-js/faker": "^10.0.0",
     "bcrypt": "^5.1.1",
     "dotenv": "^16.6.1",
     "express": "^5.1.0",
@@ -19,6 +20,7 @@
     "pg": "^8.16.3"
   },
   "devDependencies": {
+    "json-server": "^1.0.0-beta.3",
     "nodemon": "^3.1.10"
   }
 }
